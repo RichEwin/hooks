@@ -1,7 +1,7 @@
 {
   "name": "@rewin/hooks",
   "version": "1.0.0",
-  "description": "Re-usable hooks",
+  "description": "Reusable hooks",
   "homepage": "https://github.com/RichEwin/hooks",
   "bugs": {
     "url": "https://github.com/RichEwin/hooks/issues"
@@ -33,6 +33,7 @@
     "react": "^19.1.0"
   },
   "devDependencies": {
-    "@arethetypeswrong/cli": "^0.17.4"
+    "@arethetypeswrong/cli": "^0.17.4",
+    "typescript": "^5.8.3"
   }
 }
