@@ -28,9 +28,15 @@ npm install @rewin/hooks
 
 ## 📚 Available Hooks
 
-- useDebounce<T>(value: T, delay?: number): T
+```
+- useDebounce<T>(value: T, delay?: number)
 
 Delay a changing value by a set number of milliseconds.
+
+- usePagination(data = [], itemsPerPage = 10, initialPage = 1)
+
+Provides pagination logic for an array of data.
+```
 
 ## 🛡️ Gotchas
 
